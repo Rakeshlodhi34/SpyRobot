@@ -79,5 +79,5 @@ This project demonstrates the development of a **Spy Robot** that uses an **ESP3
 Ashish Barpete 
 Rakesh Lodhi
 
-supervisor: Dr. soumitra K. Nayak
+supervisor: Dr. Abhishek Joshi
 
